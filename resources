@@ -1,5 +1,5 @@
 Make an autopilot script for your analyses
-andrewgelman.com
+
 If you use python - use jupyter notebook, 
 Also make a startup file so that your figures always are publication quality, from the get go, without modification. 
 But if you do you need to modify try these tools
@@ -8,3 +8,16 @@ AI - PB, KJ
 keynote - KD
 
 Figures:
+
+Searching through the literature:
+Pubmed:
+Google-scholar:
+PaperPile (and its integration with Pubmed)
+
+Useful statisticians
+andrewgelman.com
+
+Bayesian statistics. 
+
+Explanation of bootstrap, cross val and permtuation test. 
+
