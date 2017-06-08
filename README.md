@@ -2,6 +2,6 @@
 
 These are resources intended for graduate students in neuro\*. 
 
-Please submit pull requests for guidelines, advice, programming tips, researching hacks, anything else you have learned over the years as a graduate student and what you think others would have benefited from knowing. 
+You are most welcome to submit pull requests including guidelines, advice, programming tips, researching hacks, anything else you have learned over the years as a graduate student that you think others would benefit from knowing. 
 
-Thanks for your contributions. 
+Sincere thanks for your contributions. 
