@@ -10,6 +10,10 @@ Use atom for writing experimental code, scanner code, all other code besides int
 Make a startup file so that your figures always are publication quality, from the get go, without modification. Save files in svg, or eps always. Just stop using pngs all together. 
 
 ##  Programming Advice
+Start using github. It is excellent for version control (instead of having a final_analysisv4p3_really_this_is_final_final.py in your folder you just have analysis.py) and for sharing. Other researchers can replicate exactly what you did. This will save you time, if someone emails you for example. 
+
+Simulate data and make sure that your analysis works the way you think that it is working. 
+
 Become a pro at bash syntax - it will seriously save you a lot of time. 
 https://ss64.com/bash/syntax-keyboard.html
 
@@ -31,6 +35,8 @@ As soon as possible, understand bootstraping, cross validation and the permutati
 https://docs.google.com/presentation/d/11TozBxAaON1eFXeL6aK1USLtJyAbUaHhskcPkI0FLbc/edit#slide=id.g138cbbed1a_0_0 
 
 ##  Statistics blogs
+Thomas wiecki
+
 http://www.the100.ci/author/anne/
 
 ##  Twitter is your friend:
