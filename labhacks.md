@@ -82,6 +82,7 @@ The rainy day folder. You will have some weeks where nothing worked and you will
 
 
 ##  Doing statistics better
+Rob Kass, CMU statistics faculty, has written guidelines on how to approach data analysis. They are extremely useful. 
 http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004961
 
 ##  Share your work with your friends as well as your enemies. 
