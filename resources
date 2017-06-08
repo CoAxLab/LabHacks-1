@@ -20,7 +20,10 @@ Hotkey things, get a mechanical keyboard so your labmates love you. Hotkey more 
 seaborn
 
 # Statistics
-Bayesian statistics. 
+Learn to love Bayes, if you don't already. 
+This is an introduction on bayesian vs. frequentism
+http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/
+
 Beware of p-values. Stop using them if you can. Avoid null hypothesis significance testing (NHST). 
 
 As soon as possible, understand bootstraping, cross validation and the permutation test. 
@@ -36,6 +39,7 @@ Twitter is your friend:
 @Neuro_Skeptic 
 @tdverstynen (el patron)
 @NKriegeskorte
+@jakevdp
 
 # Researching
 Before you start down some major project that you will be committed to for years, understand the current literature in your topic. Understand very clearly why you are going to do what you are going to do. 
