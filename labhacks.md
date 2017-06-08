@@ -22,7 +22,7 @@ Use shell scripts when you must, but these days python is quite the shapeshifter
 Hotkey things, get a mechanical keyboard so your labmates love you. Hotkey more things. 
 
 ##  Generating pub quality figures:
-Data visualization has been made very easy with matplotlib and library called seaborn http://seaborn.pydata.org/index.html
+Data visualization has been made very easy with matplotlib and a library called seaborn http://seaborn.pydata.org/index.html
 
 ##  Doing statistics
 Learn to love Bayes, if you don't already. 
