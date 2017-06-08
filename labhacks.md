@@ -35,7 +35,10 @@ As soon as possible, understand bootstraping, cross validation and the permutati
 https://docs.google.com/presentation/d/11TozBxAaON1eFXeL6aK1USLtJyAbUaHhskcPkI0FLbc/edit#slide=id.g138cbbed1a_0_0 
 
 ##  Statistics blogs
-Thomas wiecki
+While my MCMC gently samples:
+http://twiecki.github.io/
+Pythonic perambulations
+http://jakevdp.github.io/
 
 http://www.the100.ci/author/anne/
 
