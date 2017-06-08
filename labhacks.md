@@ -1,6 +1,6 @@
 
 ## Advice on Analysis
-Make an autopilot script for your analyses, so that figures (and even posters if you are feeling ambitious) are updated in real time while the data is collected. You can find some examples here. When I collect data, all of my imaging and behavioral analyses are updated and I get an email at the end of the day with figures. I literally do not intervene - this has saved me hundreds of hours. 
+Make an "autopilot" script for your analyses, so that figures (and even posters if you are feeling ambitious) are updated in real time while the data is collected. You can find some examples here (/rsaRemap/autopilot.py). When I collect data, all of my imaging and behavioral analyses are updated and I get an email at the end of the day with figures. I literally do not intervene - this has saved me hundreds of hours. 
 
 Use jupyter notebook for development of analysis pipelines.
 
