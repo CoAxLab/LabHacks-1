@@ -37,26 +37,39 @@ https://docs.google.com/presentation/d/11TozBxAaON1eFXeL6aK1USLtJyAbUaHhskcPkI0F
 
 ##  Statistics blogs
 While my MCMC gently samples:
+
 http://twiecki.github.io/
+
 Pythonic perambulations
+
 http://jakevdp.github.io/
 
 http://www.the100.ci/author/anne/
 
 ##  Twitter is your friend:
 @KordingLab
+
 @StatModeling
+
 @Neuro_Skeptic 
+
 @tdverstynen (el patron)
+
 @NKriegeskorte
+
 @jakevdp
 
 ##  Conducting research
 Before you start down some major project that you will be committed to for years, understand the current literature in your topic. Understand very clearly why you are going to do what you are going to do. 
+
 Find articles before they are officially published on arxiv
+
 Don't discount social media
+
 Pubmed
+
 Google-scholar
+
 PaperPile (and its integration with Pubmed)
 
 
