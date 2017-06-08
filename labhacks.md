@@ -1,5 +1,5 @@
 
-## Advice on Analysis
+## Analysis 
 Make an "autopilot" script for your analyses, so that figures (and even posters if you are feeling ambitious) are updated in real time while the data is collected. You can find some examples here (/rsaRemap/autopilot.py). When I collect data, all of my imaging and behavioral analyses are updated and I get an email at the end of the day with figures. I literally do not intervene - this has saved me hundreds of hours. 
 
 Use jupyter notebook for development of analysis pipelines.
@@ -9,7 +9,7 @@ Use atom for writing experimental code, scanner code, all other code besides int
 
 Make a startup file so that your figures always are publication quality, from the get go, without modification. Save files in svg, or eps always. Just stop using pngs all together. 
 
-##  Programming Advice
+##  Programming 
 Start using github. It is excellent for version control (instead of having a final_analysisv4p3_really_this_is_final_final.py in your folder you just have analysis.py) and for sharing. Other researchers can replicate exactly what you did. This will save you time, if someone emails you for example. 
 
 Simulate data and make sure that your analysis works the way you think that it is working. 
@@ -21,10 +21,10 @@ Use shell scripts when you must, but these days python is quite the shapeshifter
 
 Hotkey things, get a mechanical keyboard so your labmates love you. Hotkey more things. 
 
-##  Making publication quality figures:
+##  Generating pub quality figures:
 seaborn
 
-##  Statistics
+##  Doing statistics
 Learn to love Bayes, if you don't already. 
 This is an introduction on bayesian vs. frequentism
 http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/
@@ -47,7 +47,7 @@ http://www.the100.ci/author/anne/
 @NKriegeskorte
 @jakevdp
 
-##  Researching
+##  Conducting research
 Before you start down some major project that you will be committed to for years, understand the current literature in your topic. Understand very clearly why you are going to do what you are going to do. 
 Find articles before they are officially published on arxiv
 Don't discount social media
@@ -56,10 +56,10 @@ Google-scholar
 PaperPile (and its integration with Pubmed)
 
 
-##  Advice on writing papers
+##  Writing papers
 See 10 rules for writing papers. http://biorxiv.org/content/biorxiv/early/2016/11/28/088278.full.pdf
 
-##  Advice for meetings with PI
+##  Meetings with your PI
 Never show up empty handed to meetings with your PI, 
 Have a clear objective to the meeting
 Be able to show some evidence of your productivity. 
