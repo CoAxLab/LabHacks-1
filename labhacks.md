@@ -50,7 +50,7 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 ##  Generating pub quality figures
 * Data visualization has been made very easy with [matplotlib](https://matplotlib.org) and a library called [seaborn](http://seaborn.pydata.org/index.html)
 
-##  Doing statistics
+##  Statistical Analysis
 * Learn to love Bayes, if you don't already. 
 [This](http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/) is an introduction on bayesian vs. frequentism written by Jake Vanderplas, an astrophysicist and python developer. 
 
