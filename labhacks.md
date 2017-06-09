@@ -50,11 +50,13 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 * Beware of p-values. Read [this](http://ejwagenmakers.com/2007/pValueProblems.pdf) paper for some of the problems with p-values if you are not familiar with the controversy.
 
 
-* As soon as possible, understand bootstraping, cross validation and the permutation test. [Here](https://docs.google.com/presentation/d/11TozBxAaON1eFXeL6aK1USLtJyAbUaHhskcPkI0FLbc/edit#slide=id.g138cbbed1a_0_0 ) are some lecture notes describing these topics. 
+* As soon as possible, understand [bootstraping](https://en.wikipedia.org/wiki/Bootstrapping), [cross-validation](https://en.wikipedia.org/wiki/Cross-validation_(statistics)) and [permutation tests](https://en.wikipedia.org/wiki/Resampling_(statistics)). [Here](https://docs.google.com/presentation/d/11TozBxAaON1eFXeL6aK1USLtJyAbUaHhskcPkI0FLbc/edit#slide=id.g138cbbed1a_0_0 ) are some lecture notes describing these topics. 
 
 * [Rob Kass](http://www.stat.cmu.edu/~kass/), CMU statistics faculty, has written [guidelines](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004961) on how to approach data analysis. They are extremely useful. 
 
 * Frequent [datatau](http://www.datatau.com/) for interesting news on data analysis
+
+* Your stats question may have an answer over [here](https://stats.stackexchange.com/) on cross-validated
 
 ###  Statistics blogs
 * [While my MCMC gently samples](http://twiecki.github.io/)
