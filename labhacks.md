@@ -27,7 +27,7 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 
 * Use hotkeys for [google](https://support.google.com/chrome/answer/157179?hl=en), [gmail](https://support.google.com/mail/answer/6594?co=GENIE.Platform%3DDesktop&hl=en), [atom](https://github.com/nwinkler/atom-keyboard-shortcuts), [jupyter notebooks](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/). Consider a mechanical keyboard so your labmates love you, then hotkey some more. 
 
-##  Generating pub quality figures:
+##  Generating pub quality figures
 * Data visualization has been made very easy with [matplotlib](https://matplotlib.org) and a library called [seaborn](http://seaborn.pydata.org/index.html)
 
 ##  Doing statistics
@@ -94,7 +94,7 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 * Rob Kass, CMU statistics faculty, has written [guidelines](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004961) on how to approach data analysis. They are extremely useful. 
 
 
-##  Share your work with your friends as well as your enemies. 
+##  Share your work with your friends as well as your enemies
 * The latter might give you even better criticism.
 
 
