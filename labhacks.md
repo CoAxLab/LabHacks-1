@@ -14,7 +14,7 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 * Make a startup file for jupyter notebooks that preloads modules like numpy and scipy to save you time and also so that your figures always are publication quality, from the get go, without modification. The config file can specify font sizes, legends, color themes etc. Save your figures in svg, or eps. pngs do not scale and are impossible to modify if needed.
 
 ##  Programming 
-* Start using github. It is excellent for version control (instead of having a analysis_v4_p3.2_final.py in your folder you just have analysis.py) and for sharing. Other researchers can replicate exactly what you did. This will save you time, if someone emails you for example. 
+* Start using github. It is excellent for version control and for sharing (instead of having analysis_v4_p3.2_final.py you just have analysis.py). Other researchers can replicate exactly what you did. This will save you time, if someone emails you for example. 
 
 * You or your lab may be most familiar with Matlab. It is probably worth switching to Python. Python offers simpler syntax and enables system wide interfacing. Python is being used by more and more scientists and data scientists and is worth getting comfortable with. [Anaconda](https://www.continuum.io/downloads) provides a scientific distribution of python that enables high performance computing and analysis. Among many other advantages, python is also open source and free. This enables anyone to replicate exactly what you did. 
 
