@@ -3,7 +3,7 @@
 [Analysis](#analysis)   
 [Programming](#programming)   
 [Generating figures](#generating-pub-quality-figures)    
-[Doing statistics](#doing-statistics)      
+[Doing statistics](#statistical-analysis)      
 [fMRI](#doing-fmri)  
 [Literature search](#conducting-research)  
 [Writing papers](#writing-papers)   
