@@ -55,7 +55,7 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 
 * Rob Kass, CMU statistics faculty, has written [guidelines](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004961) on how to approach data analysis. They are extremely useful. 
 
-* Frequent [datatau](http://www.datatau.com/) 
+* Frequent [datatau](http://www.datatau.com/) for interesting news on data analysis
 
 ###  Statistics blogs
 * [While my MCMC gently samples](http://twiecki.github.io/)
