@@ -1,13 +1,11 @@
 
 
 ## Analysis 
-Start with a clear and universal directory structure for organizing your analysis, data, figures, IRB approval forms, etc. [Here](http://nikola.me/folder_structure.html) is a template you can follow for a transparent directory structure.  
+.Start with a clear and universal directory structure for organizing your analysis, data, figures, IRB approval forms, etc. [Here](http://nikola.me/folder_structure.html) is a template you can follow for a transparent directory structure.  
 
-Make an "autopilot" script for your analyses, so that figures (and even posters if you are feeling ambitious) are updated in real time while the data is collected. You can find some examples [here](http://github/pbeukema/rsaRemap/autopilot.py). Whenever data is written to a particular folder, a cron job executes an autopilot.py script that updated imaging and behavioral analyses and then sends me an email at the end of the day with figures. By not intervening, and having your analyses pre-determined, you will save significant time. 
+.Make an "autopilot" script for your analyses, so that figures (and even posters if you are feeling ambitious) are updated in real time while the data is collected. You can find some examples [here](http://github/pbeukema/rsaRemap/autopilot.py). Whenever data is written to a particular folder, a cron job executes an autopilot.py script that updates imaging and behavioral analyses and then sends automatically an email when it is done with figures. By not intervening, and having your analyses pre-determined, you will save significant time. 
 
-
-
-Use [jupyter notebook](http://jupyter.readthedocs.io/en/latest/index.html) for development and for analysis pipelines.
+.Use [jupyter notebook](http://jupyter.readthedocs.io/en/latest/index.html) for development and for analysis pipelines.
 
 
 [Atom](https://atom.io/) is very useful text editor that integrates seamlessly with github. 
@@ -19,11 +17,11 @@ Make a startup file for jupyter notebooks that preloads modules like numpy and s
 ##  Programming 
 Start using github. It is excellent for version control (instead of having a final_analysisv4p3_really_this_is_final_final.py in your folder you just have analysis.py) and for sharing. Other researchers can replicate exactly what you did. This will save you time, if someone emails you for example. 
 
-Simulate data and make sure that your analysis works the way you think that it is working. 
-
 Become a pro at [bash syntax](https://ss64.com/bash/syntax-keyboard.html) - it will seriously save you a lot of time. 
 
-Use shell scripts when you must, but these days python is quite the shapeshifter. 
+Simulate data and make sure that your analysis works the way you think that it is working. 
+
+Use shell scripts if necessary, but these days python is quite the shapeshifter. 
 
 Use hotkeys for [google](https://support.google.com/chrome/answer/157179?hl=en), [gmail](https://support.google.com/mail/answer/6594?co=GENIE.Platform%3DDesktop&hl=en), [atom](https://github.com/nwinkler/atom-keyboard-shortcuts), [jupyter notebooks](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/). Consider a mechanical keyboard so your labmates love you, then hotkey some more. 
 
@@ -55,7 +53,7 @@ As soon as possible, understand bootstraping, cross validation and the permutati
 
 [@Neuro_Skeptic](https://twitter.com/Neuro_Skeptic?lang=en)
 
-[@tdverstynen el patron](https://twitter.com/tdverstynen?lang=en)
+[@tdverstynen (el patron)](https://twitter.com/tdverstynen?lang=en)
 
 [@NKriegeskorte](https://twitter.com/NKriegeskorte?lang=en)
 
