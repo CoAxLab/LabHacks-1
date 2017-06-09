@@ -86,7 +86,7 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 
 ##  Writing papers
 * See [these](http://biorxiv.org/content/biorxiv/early/2016/11/28/088278.full.pdf
-) 10 rules for writing papers, grants etc. 
+) 10 rules for writing papers, written by Konrad Kording and Brett Mensh. 
 
 ##  Meetings with your PI
 * Never show up empty handed to meetings with your PI.
