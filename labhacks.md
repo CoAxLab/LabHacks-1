@@ -1,9 +1,9 @@
 ### Table of Contents  
 
-[Analysis](#analysis)  
-[Programming](#programming) 
-[Generating Figures](#generating-pub-quality-figures) 
-[Doing Statistics](#doing-statistics) 
+[Analysis](#analysis)   
+[Programming](#programming)   
+[Generating Figures](#generating-pub-quality-figures)    
+[Doing Statistics](#doing-statistics)    
 [fMRI](#doing-fmri) 
 [Statistics blogs](#generating-pub-quality-figures) 
 [Twitter](#twitter-is-your-friend) 
