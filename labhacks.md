@@ -1,10 +1,15 @@
-##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#generating-pub-quality-figures)  
-...snip...    
-<a name="headers"/>
-## Headers
+### Table of Contents  
 
+[Analysis](#analysis)  
+[Programming](#programming)
+[Generating Figures](#generating-pub-quality-figures)
+[Doing Statistics](#doing-statistics)
+[fMRI](#doing-fmri)
+[Statistics blogs](#generating-pub-quality-figures)
+[Twitter](#twitter-is-your-friend) Writing papers
+[Advice for literature search](#conducting-research)
+[Advice on writing papers](#writing-papers)
+[Advice on meetings](#meetings-with-your-PI) 
 
 ## Analysis 
 * Start with a clear and universal directory structure for organizing your analysis, data, figures, IRB approval forms, etc. [Here](http://nikola.me/folder_structure.html) is a template you can follow for a transparent directory structure.  
