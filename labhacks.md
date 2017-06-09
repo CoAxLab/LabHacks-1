@@ -10,6 +10,7 @@
 * [Atom](https://atom.io/) is very useful text editor that integrates seamlessly with github. 
 Use it for writing experimental code, scanner code, bash scripts and so on. 
 (Hint: Run scripts from atom with package "script")
+
 * Make a startup file for jupyter notebooks that preloads modules like numpy and scipy to save you time and also so that your figures always are publication quality, from the get go, without modification. The config file can specify font sizes, legends, color themes etc. Save your figures in svg, or eps. pngs do not scale and are impossible to modify if needed.
 
 ##  Programming 
@@ -21,7 +22,7 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 
 * Use shell scripts if necessary, but these days python is quite the shapeshifter. 
 
-⋅⋅*Use hotkeys for [google](https://support.google.com/chrome/answer/157179?hl=en), [gmail](https://support.google.com/mail/answer/6594?co=GENIE.Platform%3DDesktop&hl=en), [atom](https://github.com/nwinkler/atom-keyboard-shortcuts), [jupyter notebooks](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/). Consider a mechanical keyboard so your labmates love you, then hotkey some more. 
+* Use hotkeys for [google](https://support.google.com/chrome/answer/157179?hl=en), [gmail](https://support.google.com/mail/answer/6594?co=GENIE.Platform%3DDesktop&hl=en), [atom](https://github.com/nwinkler/atom-keyboard-shortcuts), [jupyter notebooks](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/). Consider a mechanical keyboard so your labmates love you, then hotkey some more. 
 
 ##  Generating pub quality figures:
 * Data visualization has been made very easy with [matplotlib](https://matplotlib.org) and a library called [seaborn](http://seaborn.pydata.org/index.html)
@@ -44,7 +45,7 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 
 * [Pythonic perambulations](http://jakevdp.github.io/)
 
-*[Andrew Gelmans blog that you should be reading regularly](http://andrewgelman.com/) 
+* [Andrew Gelmans blog that you should be reading regularly](http://andrewgelman.com/) 
 
 ##  Twitter is your friend
 * [@tdverstynen (el patron)](https://twitter.com/tdverstynen?lang=en)
