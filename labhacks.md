@@ -9,12 +9,6 @@
 [Writing papers](#writing-papers)   
 [Meetings](#meetings-with-your-PI)    
 
-### Resources to help guide you..
-[Statistics blogs](#generating-pub-quality-figures)   
-[Twitter](#twitter-is-your-friend)   
-
-
-
 ## Analysis 
 * Start with a clear and universal directory structure for organizing your analysis, data, figures, IRB approval forms, etc. [Here](http://nikola.me/folder_structure.html) is a template you can follow for a transparent directory structure.  
 
@@ -73,9 +67,18 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 ##  Doing fMRI
 * Organize your dataset using the [BIDS format](http://bids.neuroimaging.io/) - this will make your data more sccessible to both your collaborators and the field at large. 
 
+##  Literature Search
+* Before you start down some major project that you will be committed to for years, understand the current literature in your topic. Understand very clearly why you are going to do what you are going to do. 
 
+* Find articles before they are officially published on [arxiv](http://biorxiv.org/)
 
-##  Twitter is your friend
+* [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/)
+
+* [Google-scholar](https://scholar.google.com)
+
+* [PaperPile](https://paperpile.com) (and its integration with Pubmed)
+
+### Don't discount social media, like twitter!
 * [@tdverstynen (el patron)](https://twitter.com/tdverstynen?lang=en)
 
 * [@KordingLab](https://twitter.com/kordinglab?lang=en)
@@ -89,18 +92,6 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 * [@jakevdp](https://twitter.com/jakevdp?lang=en)
 
 
-##  Literature Search
-* Before you start down some major project that you will be committed to for years, understand the current literature in your topic. Understand very clearly why you are going to do what you are going to do. 
-
-* Find articles before they are officially published on [arxiv](http://biorxiv.org/)
-
-* Don't discount social media, like twitter!
-
-* [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/)
-
-* [Google-scholar](https://scholar.google.com)
-
-* [PaperPile](https://paperpile.com) (and its integration with Pubmed)
 
 
 ##  Writing papers
