@@ -95,7 +95,7 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 
 
 ##  Share your work with your friends as well as your enemies
-* [@KordingLab](https://twitter.com/kordinglab?lang=en) words. The latter might give you even better criticism.
+* The latter might give you even better criticism.
 
 
 
