@@ -5,7 +5,7 @@
 [Generating figures](#generating-pub-quality-figures)    
 [Doing statistics](#statistical-analysis)      
 [fMRI](#doing-fmri)  
-[Literature search](#conducting-research)  
+[Literature search](#literature-search)  
 [Writing papers](#writing-papers)   
 [Meetings](#meetings-with-your-PI)    
 
@@ -87,7 +87,7 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 * [@jakevdp](https://twitter.com/jakevdp?lang=en)
 
 
-##  Conducting research
+##  Literature Search
 * Before you start down some major project that you will be committed to for years, understand the current literature in your topic. Understand very clearly why you are going to do what you are going to do. 
 
 * Find articles before they are officially published on [arxiv](http://biorxiv.org/)
