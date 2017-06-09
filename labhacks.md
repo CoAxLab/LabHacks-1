@@ -60,12 +60,12 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 
 * Your stats question may have an answer over [here](https://stats.stackexchange.com/) on cross-validated
 
-###  Statistics blogs
-* [While my MCMC gently samples](http://twiecki.github.io/)
+  ###  Statistics blogs
+  * [While my MCMC gently samples](http://twiecki.github.io/)
 
-* [Pythonic perambulations](http://jakevdp.github.io/)
+  * [Pythonic perambulations](http://jakevdp.github.io/)
 
-* [Andrew Gelman ](http://andrewgelman.com/) 
+  * [Andrew Gelman ](http://andrewgelman.com/) 
 
 ##  Writing papers
 * See these [Ten simple rules for structuring papers](http://biorxiv.org/content/biorxiv/early/2016/11/28/088278.full.pdf
