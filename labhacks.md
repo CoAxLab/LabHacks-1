@@ -40,7 +40,7 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 * Use hotkeys for [google](https://support.google.com/chrome/answer/157179?hl=en), [gmail](https://support.google.com/mail/answer/6594?co=GENIE.Platform%3DDesktop&hl=en), [atom](https://github.com/nwinkler/atom-keyboard-shortcuts), & [jupyter notebooks](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/). Consider a mechanical keyboard so your labmates love you, then hotkey some more. 
 
 * Not sure how to code something? It may have an answer on [stack overflow](https://stackoverflow.com/). 
-##  Generating publication quality figures
+##  Generating Publication Quality Figures
 * Data visualization has been made very easy with [matplotlib](https://matplotlib.org) and a library called [seaborn](http://seaborn.pydata.org/index.html)  
 
 * Save your figures in svg, or eps. pngs do not scale well and are impossible to modify.
@@ -67,7 +67,7 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 
   * [Andrew Gelman ](http://andrewgelman.com/) 
 
-##  Writing papers
+##  Writing Papers
 * See these [Ten simple rules for structuring papers](http://biorxiv.org/content/biorxiv/early/2016/11/28/088278.full.pdf
 ), written by [Konrad Kording](http://koerding.com/) and Brett Mensh. 
 
