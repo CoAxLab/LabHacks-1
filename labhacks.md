@@ -68,7 +68,7 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 
 ##  Writing papers
 * See these [Ten simple rules for structuring papers](http://biorxiv.org/content/biorxiv/early/2016/11/28/088278.full.pdf
-), written by Konrad Kording and Brett Mensh. 
+), written by [Konrad Kording](http://koerding.com/) and Brett Mensh. 
 
 ##  Doing fMRI
 * Organize your dataset using the [BIDS format](http://bids.neuroimaging.io/) - this will make your data more accessible to both your collaborators and the field at large. 
