@@ -76,7 +76,7 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 
 * [Google-scholar](https://scholar.google.com)
 
-* [PaperPile](https://paperpile.com) (and its integration with Pubmed)
+* [PaperPile](https://paperpile.com) is a great citation manager (and its integration with Pubmed)
 
 ### Don't discount social media, like twitter!
 [@tdverstynen (el patron)](https://twitter.com/tdverstynen?lang=en)  
