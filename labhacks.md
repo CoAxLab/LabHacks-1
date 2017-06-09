@@ -16,6 +16,9 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 ##  Programming 
 * Start using github. It is excellent for version control (instead of having a final_analysisv4p3_really_this_is_final_final.py in your folder you just have analysis.py) and for sharing. Other researchers can replicate exactly what you did. This will save you time, if someone emails you for example. 
 
+* You or your lab may be most familiar with Matlab. It is probably worth switching to Python. Python offers simpler syntax and enables system wide interfacing. Python is being used by more and more scientists and data scientists and is worth getting comfortable with. [Anaconda](https://www.continuum.io/downloads) provides a scientific distribution of python that enables high performance computing and analysis. Among many other advantages, python is also open source and free. 
+
+
 * Become a pro at [bash syntax](https://ss64.com/bash/syntax-keyboard.html) - it will seriously save you a lot of time. 
 
 * Simulate data and make sure that your analysis works the way you think that it is working. 
