@@ -3,11 +3,17 @@
 [Emphasis](#emphasis)  
 ...    
 [Analysis](##Analysis)
+
 [Programming](##Programming)
+
 [Figures](##Generating pub quality figures)
+
 [Analysis](##Doing statistics)
+
 [fmRI](##Doing fMRI)
+
 [Statistics Blogs](##Statistics Blogs)
+
 [Twitter](##Twitter is your friend)
 
 ## Analysis 
