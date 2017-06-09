@@ -1,16 +1,16 @@
 
 ## Analysis 
-Make an "autopilot" script for your analyses, so that figures (and even posters if you are feeling ambitious) are updated in real time while the data is collected. You can find some examples here (/rsaRemap/autopilot.py). When I collect data, all of my imaging and behavioral analyses are updated and I get an email at the end of the day with figures. I literally do not intervene - this has saved me hundreds of hours. 
+Make an "autopilot" script for your analyses, so that figures (and even posters if you are feeling ambitious) are updated in real time while the data is collected. You can find some examples here (github/pbeukema/rsaRemap/autopilot.py). Whenever data is written to a particular folder, a cron job executes an autopilot.py script that updated imaging and behavioral analyses and then sends me an email at the end of the day with figures. By not intervening, and having your analyses pre-determined, you will save significant time. 
 
-Use jupyter notebook for development of analysis pipelines.
+Use jupyter notebook for development and for analysis pipelines.
 http://jupyter.readthedocs.io/en/latest/index.html
 
-Use atom for writing experimental code, scanner code, all other code besides interactive analysis. 
+A very useful text editor that integrates seamlessly with github. 
 https://atom.io/
-Atom integrates seamlessly with github.
-(Run scripts from atom with package "script")
+Use it for writing experimental code, scanner code, bash scripts and so on. 
+(Hint: Run scripts from atom with package "script")
 
-Make a startup file so that your figures always are publication quality, from the get go, without modification. Save files in svg, or eps always. Just stop using pngs all together. 
+Make a startup file for jupyter notebooks that preloads modules like numpy and scipy to save you time and also so that your figures always are publication quality, from the get go, without modification. The config file can specify font sizes, legends, color themes etc. Save your figures in svg, or eps. pngs do not scale and are impossible to modify if needed.
 
 ##  Programming 
 Start using github. It is excellent for version control (instead of having a final_analysisv4p3_really_this_is_final_final.py in your folder you just have analysis.py) and for sharing. Other researchers can replicate exactly what you did. This will save you time, if someone emails you for example. 
