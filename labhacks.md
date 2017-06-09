@@ -14,7 +14,7 @@
 
 * Make an "autopilot" script for your analyses, so that figures (and even posters if you are feeling ambitious) are updated in real time while the data is collected. You can find some examples [here](https://github.com/pbeukema/rsaRemap/mm_autopilot.py). Write a cron job to execute an autopilot.py script that updates imaging and behavioral analyses and then sends automatically an email when it is done with figures. 
 
-* Use [jupyter notebook](http://jupyter.readthedocs.io/en/latest/index.html) for development and for analysis pipelines.
+* Use [jupyter notebooks](http://jupyter.readthedocs.io/en/latest/index.html) for development and for analysis pipelines.
 
 
 * [Atom](https://atom.io/) is very useful text editor that integrates seamlessly with github. 
