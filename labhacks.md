@@ -45,7 +45,7 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 
 ##  Statistical Analysis
 * Learn to love Bayesian statistics, if you don't already. 
-[This](http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/) is an introduction on bayesian vs. frequentism written by Jake Vanderplas, an astrophysicist and python developer. 
+[This](http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/) is an introduction on bayesian vs. frequentism written by [Jake Vanderplas](https://staff.washington.edu/jakevdp/), an astrophysicist and python developer. 
 
 
 * Beware of p-values. Read [this](http://ejwagenmakers.com/2007/pValueProblems.pdf) paper for some of the problems with p-values if you are not familiar with the controversy.
