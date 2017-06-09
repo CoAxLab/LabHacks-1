@@ -2,7 +2,7 @@
 
 [Analysis](#analysis)   
 [Programming](#programming)   
-[Generating figures](#generating-pub-quality-figures)    
+[Generating figures](#generating-publication-quality-figures)    
 [Doing statistics](#statistical-analysis)      
 [fMRI](#doing-fmri)  
 [Literature search](#literature-search)  
@@ -39,7 +39,7 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 
 * Use hotkeys for [google](https://support.google.com/chrome/answer/157179?hl=en), [gmail](https://support.google.com/mail/answer/6594?co=GENIE.Platform%3DDesktop&hl=en), [atom](https://github.com/nwinkler/atom-keyboard-shortcuts), [jupyter notebooks](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/). Consider a mechanical keyboard so your labmates love you, then hotkey some more. 
 
-##  Generating pub quality figures
+##  Generating publication quality figures
 * Data visualization has been made very easy with [matplotlib](https://matplotlib.org) and a library called [seaborn](http://seaborn.pydata.org/index.html)
 
 ##  Statistical Analysis
