@@ -42,6 +42,7 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 * Not sure how to code something? It may have an answer on [stack overflow](https://stackoverflow.com/). 
 ##  Generating publication quality figures
 * Data visualization has been made very easy with [matplotlib](https://matplotlib.org) and a library called [seaborn](http://seaborn.pydata.org/index.html)  
+
 * Save your figures in svg, or eps. pngs do not scale well and are impossible to modify.
 ##  Statistical Analysis
 * Learn to love Bayesian statistics, if you don't already. 
