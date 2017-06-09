@@ -25,7 +25,7 @@ Become a pro at [bash syntax](https://ss64.com/bash/syntax-keyboard.html) - it w
 
 Use shell scripts when you must, but these days python is quite the shapeshifter. 
 
-Hotkey things, get a mechanical keyboard so your labmates love you. Hotkey more things. 
+Use hotkeys for [google](https://support.google.com/chrome/answer/157179?hl=en), [gmail](https://support.google.com/mail/answer/6594?co=GENIE.Platform%3DDesktop&hl=en), [atom](https://github.com/nwinkler/atom-keyboard-shortcuts), [jupyter notebooks](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/). Consider a mechanical keyboard so your labmates love you, then hotkey some more. 
 
 ##  Generating pub quality figures:
 Data visualization has been made very easy with [matplotlib](https://matplotlib.org) and a library called [seaborn](http://seaborn.pydata.org/index.html)
@@ -55,7 +55,7 @@ As soon as possible, understand bootstraping, cross validation and the permutati
 
 [@Neuro_Skeptic](https://twitter.com/Neuro_Skeptic?lang=en)
 
-[@tdverstynen el patron](https://twitter.com/kordinglab?lang=en)
+[@tdverstynen el patron](https://twitter.com/tdverstynen?lang=en)
 
 [@NKriegeskorte](https://twitter.com/NKriegeskorte?lang=en)
 
@@ -67,14 +67,13 @@ Before you start down some major project that you will be committed to for years
 
 Find articles before they are officially published on [arxiv](http://biorxiv.org/)
 
-
 Don't discount social media, like twitter!
 
-Pubmed
+[Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/)
 
-Google-scholar
+[Google-scholar](https://scholar.google.com)
 
-PaperPile (and its integration with Pubmed)
+[PaperPile](https://paperpile.com) (and its integration with Pubmed)
 
 
 ##  Writing papers
