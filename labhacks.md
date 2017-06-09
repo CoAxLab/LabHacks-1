@@ -1,20 +1,3 @@
-##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
-...    
-[Analysis](##Analysis)
-
-[Programming](##Programming)
-
-[Figures](##Generating pub quality figures)
-
-[Analysis](##Doing statistics)
-
-[fmRI](##Doing fMRI)
-
-[Statistics Blogs](##Statistics Blogs)
-
-[Twitter](##Twitter is your friend)
 
 ## Analysis 
 * Start with a clear and universal directory structure for organizing your analysis, data, figures, IRB approval forms, etc. [Here](http://nikola.me/folder_structure.html) is a template you can follow for a transparent directory structure.  
