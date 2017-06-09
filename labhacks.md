@@ -48,7 +48,7 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 
 * [Pythonic perambulations](http://jakevdp.github.io/)
 
-* [Andrew Gelmans blog that you should be reading regularly](http://andrewgelman.com/) 
+* [Andrew Gelman ](http://andrewgelman.com/) 
 
 ##  Twitter is your friend
 * [@tdverstynen (el patron)](https://twitter.com/tdverstynen?lang=en)
