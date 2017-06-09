@@ -70,6 +70,7 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 * See these [Ten simple rules for structuring papers](http://biorxiv.org/content/biorxiv/early/2016/11/28/088278.full.pdf
 ), written by [Konrad Kording](http://koerding.com/) and Brett Mensh. 
 
+* Share your work with your friends as well as your enemies, the latter might give you even better criticism.
 ##  Doing fMRI
 * Organize your dataset using the [BIDS format](http://bids.neuroimaging.io/) - this will make your data more accessible to both your collaborators and the field at large. 
 
@@ -98,9 +99,3 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 * Be able to show some evidence of your productivity. 
 
 * The rainy day folder. You will have some weeks where nothing worked and you will have to meet with your PI anyway without the thing you were supposed to have. I found that in those cases it is productive to have a "rainy day" folder containing interesting analyses/figures you have not yet shown. 
-
-##  Share your work with your friends as well as your enemies
-* The latter might give you even better criticism.
-
-
-
