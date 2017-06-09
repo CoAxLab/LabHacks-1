@@ -20,7 +20,7 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 
 * Make an "autopilot" script for your analyses, so that figures (and even posters if you are feeling ambitious) are updated in real time while the data is collected. Write a [cron job](http://www.adminschoice.com/crontab-quick-reference) to execute an autopilot.py script that updates imaging and behavioral analyses and then sends an email with your figures automatically. You can find some autpilot examples [here](https://github.com/pbeukema/rsaRemap/blob/master/modmap_autopilot.py). 
 
-* Make a startup file for your jupyter notebooks that preloads modules like numpy and scipy to save you time and also so that your figures are always publication quality, from the get go, without modification. The config file can specify font sizes, legends, color themes etc. Save your figures in svg, or eps. pngs do not scale well and are impossible to modify.
+* Make a startup file for your jupyter notebooks that preloads modules like numpy and scipy to save you time and also so that your figures are always publication quality, from the get go, without modification. The config file can specify font sizes, legends, color themes etc.
 
 ##  Programming 
 * Start using github. It is excellent for version control and for sharing (instead of having analysis_v4_p3.2_final.py you just have analysis.py). Other researchers can replicate exactly what you did. This will save you time, if someone emails you for example. 
@@ -41,8 +41,8 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 
 * Not sure how to code something? It may have an answer on [stack overflow](https://stackoverflow.com/). 
 ##  Generating publication quality figures
-* Data visualization has been made very easy with [matplotlib](https://matplotlib.org) and a library called [seaborn](http://seaborn.pydata.org/index.html)
-
+* Data visualization has been made very easy with [matplotlib](https://matplotlib.org) and a library called [seaborn](http://seaborn.pydata.org/index.html)  
+* Save your figures in svg, or eps. pngs do not scale well and are impossible to modify.
 ##  Statistical Analysis
 * Learn to love Bayesian statistics, if you don't already. 
 [This](http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/) is an introduction on bayesian vs. frequentism written by [Jake Vanderplas](https://staff.washington.edu/jakevdp/), an astrophysicist and python developer. 
