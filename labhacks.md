@@ -1,4 +1,5 @@
-**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+[I'm an inline-style link](https://www.google.com)
+
 ## Analysis 
 Make an "autopilot" script for your analyses, so that figures (and even posters if you are feeling ambitious) are updated in real time while the data is collected. You can find some examples here (github/pbeukema/rsaRemap/autopilot.py). Whenever data is written to a particular folder, a cron job executes an autopilot.py script that updated imaging and behavioral analyses and then sends me an email at the end of the day with figures. By not intervening, and having your analyses pre-determined, you will save significant time. 
 
