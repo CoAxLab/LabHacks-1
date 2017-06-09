@@ -79,12 +79,12 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 * [PaperPile](https://paperpile.com) (and its integration with Pubmed)
 
 ### Don't discount social media, like twitter!
-* [@tdverstynen (el patron)](https://twitter.com/tdverstynen?lang=en)  
-* [@KordingLab](https://twitter.com/kordinglab?lang=en)  
-* [@StatModeling](https://twitter.com/StatModeling?lang=en)  
-* [@Neuro_Skeptic](https://twitter.com/Neuro_Skeptic?lang=en)  
-* [@NKriegeskorte](https://twitter.com/NKriegeskorte?lang=en)  
-* [@jakevdp](https://twitter.com/jakevdp?lang=en)  
+[@tdverstynen (el patron)](https://twitter.com/tdverstynen?lang=en)  
+[@KordingLab](https://twitter.com/kordinglab?lang=en)  
+[@StatModeling](https://twitter.com/StatModeling?lang=en)  
+[@Neuro_Skeptic](https://twitter.com/Neuro_Skeptic?lang=en)  
+[@NKriegeskorte](https://twitter.com/NKriegeskorte?lang=en)  
+[@jakevdp](https://twitter.com/jakevdp?lang=en)  
 
 
 ##  Writing papers
