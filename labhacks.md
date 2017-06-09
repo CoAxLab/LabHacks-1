@@ -1,19 +1,15 @@
 ### Table of Contents  
 
 [Analysis](#analysis)  
-[Programming](#programming)
-[Generating Figures](#generating-pub-quality-figures)
-[Doing Statistics](#doing-statistics)
-[fMRI](#doing-fmri)
-[Statistics blogs](#generating-pub-quality-figures)
-
-[Twitter](#twitter-is-your-friend)
-
-[Advice for literature search](#conducting-research)
-
-[Advice on writing papers](#writing-papers)
-
-[Advice on meetings](#meetings-with-your-PI) 
+[Programming](#programming) 
+[Generating Figures](#generating-pub-quality-figures) 
+[Doing Statistics](#doing-statistics) 
+[fMRI](#doing-fmri) 
+[Statistics blogs](#generating-pub-quality-figures) 
+[Twitter](#twitter-is-your-friend) 
+[Advice for literature search](#conducting-research) 
+[Advice on writing papers](#writing-papers)  
+[Advice on meetings](#meetings-with-your-PI)  
 
 
 ## Analysis 
