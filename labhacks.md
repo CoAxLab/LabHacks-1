@@ -84,8 +84,8 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 
 * [PaperPile](https://paperpile.com) is a great citation manager (and its integrated with Pubmed)
 
-### Don't discount social media, like twitter!
-[@tdverstynen](https://twitter.com/tdverstynen?lang=en) (el patron)  
+### Don't discount social media like twitter for your search!
+[@tdverstynen](https://twitter.com/tdverstynen?lang=en)  
 [@KordingLab](https://twitter.com/kordinglab?lang=en)  
 [@StatModeling](https://twitter.com/StatModeling?lang=en)  
 [@Neuro_Skeptic](https://twitter.com/Neuro_Skeptic?lang=en)  
