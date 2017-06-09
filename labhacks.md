@@ -1,9 +1,7 @@
 ### Table of Contents  
 
 [Analysis](#analysis)  
-
 [Programming](#programming)
-
 [Generating Figures](#generating-pub-quality-figures)
 
 [Doing Statistics](#doing-statistics)
