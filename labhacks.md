@@ -67,7 +67,7 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 * [Andrew Gelman ](http://andrewgelman.com/) 
 
 ##  Doing fMRI
-* Organize your dataset using the [BIDS format](http://bids.neuroimaging.io/) - this will make your data more sccessible to both your collaborators and the field at large. 
+* Organize your dataset using the [BIDS format](http://bids.neuroimaging.io/) - this will make your data more accessible to both your collaborators and the field at large. 
 
 * If you can not write down the general linear model you are using from scratch and solve it in closed form, [learn how](http://www.brainvoyager.com/bvqx/doc/UsersGuide/StatisticalAnalysis/TheGeneralLinearModel.html).  
 
