@@ -2,8 +2,13 @@
 [Headers](#headers)  
 [Emphasis](#emphasis)  
 ...    
-[analysis](##Analysis)
-
+[Analysis](##Analysis)
+[Programming](##Programming)
+[Figures](##Generating pub quality figures)
+[Analysis](##Doing statistics)
+[fmRI](##Doing fMRI)
+[Statistics Blogs](##Statistics Blogs)
+[Twitter](##Twitter is your friend)
 
 ## Analysis 
 * Start with a clear and universal directory structure for organizing your analysis, data, figures, IRB approval forms, etc. [Here](http://nikola.me/folder_structure.html) is a template you can follow for a transparent directory structure.  
@@ -52,7 +57,7 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 
 
 
-##  Twitter is your friend:
+##  Twitter is your friend
 * [@tdverstynen (el patron)](https://twitter.com/tdverstynen?lang=en)
 
 * [@KordingLab](https://twitter.com/kordinglab?lang=en)
