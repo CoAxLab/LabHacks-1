@@ -1,3 +1,10 @@
+##### Table of Contents  
+[Headers](#headers)  
+[Emphasis](#Generating-pub-quality-figures)  
+...snip...    
+<a name="headers"/>
+## Headers
+
 
 ## Analysis 
 * Start with a clear and universal directory structure for organizing your analysis, data, figures, IRB approval forms, etc. [Here](http://nikola.me/folder_structure.html) is a template you can follow for a transparent directory structure.  
@@ -96,7 +103,7 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 ##  Doing statistics better
 * Rob Kass, CMU statistics faculty, has written [guidelines](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004961) on how to approach data analysis. They are extremely useful. 
 
-* Frequent [datatau](https://www.datatau.com) 
+* Frequent [datatau](http://www.datatau.com/) 
 
 ##  Share your work with your friends as well as your enemies
 * The latter might give you even better criticism.
