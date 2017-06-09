@@ -10,7 +10,7 @@
 [Meetings](#meetings-with-your-pi)     
 ##
 ## Analysis 
-* Start with a clear and universal directory structure for organizing your analysis, data, figures, IRB approval forms, etc. [Here](http://nikola.me/folder_structure.html) is a template you can follow for a transparent directory structure.  
+* Start with a clear and universal directory structure for organizing your analysis, data, figures, etc. [Here](http://nikola.me/folder_structure.html) is a template you can follow for a transparent directory structure.  
 
 * [Atom](https://atom.io/) is very powerful and free text editor that integrates seamlessly with github. 
 Use it for writing experimental code, scanner code, bash scripts and so on. 
