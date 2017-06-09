@@ -2,7 +2,7 @@
 ## Analysis 
 * Start with a clear and universal directory structure for organizing your analysis, data, figures, IRB approval forms, etc. [Here](http://nikola.me/folder_structure.html) is a template you can follow for a transparent directory structure.  
 
-* Make an "autopilot" script for your analyses, so that figures (and even posters if you are feeling ambitious) are updated in real time while the data is collected. You can find some examples [here](http://github/pbeukema/rsaRemap/autopilot.py). Whenever data is written to a particular folder, a cron job executes an autopilot.py script that updates imaging and behavioral analyses and then sends automatically an email when it is done with figures. By not intervening, and having your analyses pre-determined, you will save significant time. 
+* Make an "autopilot" script for your analyses, so that figures (and even posters if you are feeling ambitious) are updated in real time while the data is collected. You can find some examples [here](https://github/pbeukema/rsaRemap/autopilot.py). Whenever data is written to a particular folder, a cron job executes an autopilot.py script that updates imaging and behavioral analyses and then sends automatically an email when it is done with figures. By not intervening, and having your analyses pre-determined, you will save significant time. 
 
 * Use [jupyter notebook](http://jupyter.readthedocs.io/en/latest/index.html) for development and for analysis pipelines.
 
