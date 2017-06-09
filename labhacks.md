@@ -77,7 +77,7 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 
 * You can search the literature with [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/) & [Google-scholar](https://scholar.google.com)
 
-* [PaperPile](https://paperpile.com) is a great citation manager (and its integration with Pubmed)
+* [PaperPile](https://paperpile.com) is a great citation manager (and its integrated with Pubmed)
 
 ### Don't discount social media, like twitter!
 [@tdverstynen (el patron)](https://twitter.com/tdverstynen?lang=en)  
