@@ -25,40 +25,38 @@ Use shell scripts when you must, but these days python is quite the shapeshifter
 Hotkey things, get a mechanical keyboard so your labmates love you. Hotkey more things. 
 
 ##  Generating pub quality figures:
-Data visualization has been made very easy with matplotlib and a library called seaborn http://seaborn.pydata.org/index.html
+Data visualization has been made very easy with [matplotlib](https://matplotlib.org) and a library called [seaborn](http://seaborn.pydata.org/index.html)
 
 ##  Doing statistics
 Learn to love Bayes, if you don't already. 
-This is an introduction on bayesian vs. frequentism
-http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/
+[This](http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/) is an introduction on bayesian vs. frequentism written by Jake Vanderplas, an astrophysicist and python developer. 
 
-Beware of p-values. Stop using them if you can. Avoid null hypothesis significance testing (NHST). Read this paper for some of the problems with p-values if you are not familiar with the controversy.
-http://ejwagenmakers.com/2007/pValueProblems.pdf
 
-As soon as possible, understand bootstraping, cross validation and the permutation test. 
-https://docs.google.com/presentation/d/11TozBxAaON1eFXeL6aK1USLtJyAbUaHhskcPkI0FLbc/edit#slide=id.g138cbbed1a_0_0 
+Beware of p-values. Stop using them if you can. Avoid null hypothesis significance testing (NHST). Read [this](http://ejwagenmakers.com/2007/pValueProblems.pdf) paper for some of the problems with p-values if you are not familiar with the controversy.
+
+
+As soon as possible, understand bootstraping, cross validation and the permutation test. [Here](https://docs.google.com/presentation/d/11TozBxAaON1eFXeL6aK1USLtJyAbUaHhskcPkI0FLbc/edit#slide=id.g138cbbed1a_0_0 ) are some lecture notes describing these topics. 
+
 
 ##  Statistics blogs
-While my MCMC gently samples:
-http://twiecki.github.io/
+[While my MCMC gently samples](http://twiecki.github.io/)
+[Pythonic perambulations](http://jakevdp.github.io/)
 
-Pythonic perambulations
-http://jakevdp.github.io/
 
 
 ##  Twitter is your friend:
-@KordingLab
-@StatModeling
-@Neuro_Skeptic 
-@tdverstynen (el patron)
-@NKriegeskorte
-@jakevdp
+[@KordingLab](https://twitter.com/kordinglab?lang=en)
+[@StatModeling](https://twitter.com/StatModeling?lang=en)
+[@Neuro_Skeptic](https://twitter.com/Neuro_Skeptic?lang=en)
+[@tdverstynen el patron](https://twitter.com/kordinglab?lang=en)
+[@NKriegeskorte](https://twitter.com/NKriegeskorte?lang=en)
+[@jakevdp](https://twitter.com/jakevdp?lang=en)
 
 ##  Conducting research
 Before you start down some major project that you will be committed to for years, understand the current literature in your topic. Understand very clearly why you are going to do what you are going to do. 
 
-Find articles before they are officially published on arxiv
-http://biorxiv.org/
+Find articles before they are officially published on [arxiv](http://biorxiv.org/)
+
 
 Don't discount social media, like twitter!
 
@@ -70,8 +68,8 @@ PaperPile (and its integration with Pubmed)
 
 
 ##  Writing papers
-See these 10 rules for writing papers, grants etc. 
-http://biorxiv.org/content/biorxiv/early/2016/11/28/088278.full.pdf
+See [these](http://biorxiv.org/content/biorxiv/early/2016/11/28/088278.full.pdf
+) 10 rules for writing papers, grants etc. 
 
 ##  Meetings with your PI
 Never show up empty handed to meetings with your PI.
@@ -82,8 +80,8 @@ The rainy day folder. You will have some weeks where nothing worked and you will
 
 
 ##  Doing statistics better
-Rob Kass, CMU statistics faculty, has written guidelines on how to approach data analysis. They are extremely useful. 
-http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004961
+Rob Kass, CMU statistics faculty, has written [guidelines](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004961) on how to approach data analysis. They are extremely useful. 
+
 
 ##  Share your work with your friends as well as your enemies. 
 The latter might give you even better criticism.
