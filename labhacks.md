@@ -12,16 +12,15 @@
 ## Analysis 
 * Start with a clear and universal directory structure for organizing your analysis, data, figures, IRB approval forms, etc. [Here](http://nikola.me/folder_structure.html) is a template you can follow for a transparent directory structure.  
 
-* Make an "autopilot" script for your analyses, so that figures (and even posters if you are feeling ambitious) are updated in real time while the data is collected. You can find some examples [here](https://github.com/pbeukema/rsaRemap/mm_autopilot.py). Write a cron job to execute an autopilot.py script that updates imaging and behavioral analyses and then sends automatically an email when it is done with figures. 
-
-* Use [jupyter notebooks](http://jupyter.readthedocs.io/en/latest/index.html) for development and for analysis pipelines.
-
-
 * [Atom](https://atom.io/) is very useful text editor that integrates seamlessly with github. 
 Use it for writing experimental code, scanner code, bash scripts and so on. 
 (Hint: Run scripts from atom with package "script")
 
-* Make a startup file for jupyter notebooks that preloads modules like numpy and scipy to save you time and also so that your figures always are publication quality, from the get go, without modification. The config file can specify font sizes, legends, color themes etc. Save your figures in svg, or eps. pngs do not scale well and are impossible to modify.
+* Use [jupyter notebooks](http://jupyter.readthedocs.io/en/latest/index.html) for development and for analysis pipelines.
+
+* Make an "autopilot" script for your analyses, so that figures (and even posters if you are feeling ambitious) are updated in real time while the data is collected. You can find some examples [here](https://github.com/pbeukema/rsaRemap/mm_autopilot.py). Write a cron job to execute an autopilot.py script that updates imaging and behavioral analyses and then sends automatically an email when it is done with figures. 
+
+* Make a startup file for your jupyter notebooks that preloads modules like numpy and scipy to save you time and also so that your figures are always publication quality, from the get go, without modification. The config file can specify font sizes, legends, color themes etc. Save your figures in svg, or eps. pngs do not scale well and are impossible to modify.
 
 ##  Programming 
 * Start using github. It is excellent for version control and for sharing (instead of having analysis_v4_p3.2_final.py you just have analysis.py). Other researchers can replicate exactly what you did. This will save you time, if someone emails you for example. 
