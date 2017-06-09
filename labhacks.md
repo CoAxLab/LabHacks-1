@@ -1,7 +1,11 @@
 
 
 ## Analysis 
+Start with a clear and universal directory structure for organizing your analysis, data, figures, IRB approval forms, etc. [Here](http://nikola.me/folder_structure.html) is a template you can follow for a transparent directory structure.  
+
 Make an "autopilot" script for your analyses, so that figures (and even posters if you are feeling ambitious) are updated in real time while the data is collected. You can find some examples [here](http://github/pbeukema/rsaRemap/autopilot.py). Whenever data is written to a particular folder, a cron job executes an autopilot.py script that updated imaging and behavioral analyses and then sends me an email at the end of the day with figures. By not intervening, and having your analyses pre-determined, you will save significant time. 
+
+
 
 Use [jupyter notebook](http://jupyter.readthedocs.io/en/latest/index.html) for development and for analysis pipelines.
 
@@ -18,7 +22,6 @@ Start using github. It is excellent for version control (instead of having a fin
 Simulate data and make sure that your analysis works the way you think that it is working. 
 
 Become a pro at [bash syntax](https://ss64.com/bash/syntax-keyboard.html) - it will seriously save you a lot of time. 
-
 
 Use shell scripts when you must, but these days python is quite the shapeshifter. 
 
@@ -40,17 +43,24 @@ As soon as possible, understand bootstraping, cross validation and the permutati
 
 ##  Statistics blogs
 [While my MCMC gently samples](http://twiecki.github.io/)
+
 [Pythonic perambulations](http://jakevdp.github.io/)
 
 
 
 ##  Twitter is your friend:
 [@KordingLab](https://twitter.com/kordinglab?lang=en)
+
 [@StatModeling](https://twitter.com/StatModeling?lang=en)
+
 [@Neuro_Skeptic](https://twitter.com/Neuro_Skeptic?lang=en)
+
 [@tdverstynen el patron](https://twitter.com/kordinglab?lang=en)
+
 [@NKriegeskorte](https://twitter.com/NKriegeskorte?lang=en)
+
 [@jakevdp](https://twitter.com/jakevdp?lang=en)
+
 
 ##  Conducting research
 Before you start down some major project that you will be committed to for years, understand the current literature in your topic. Understand very clearly why you are going to do what you are going to do. 
