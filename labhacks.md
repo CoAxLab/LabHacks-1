@@ -16,8 +16,11 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 ##  Programming 
 * Start using github. It is excellent for version control and for sharing (instead of having analysis_v4_p3.2_final.py you just have analysis.py). Other researchers can replicate exactly what you did. This will save you time, if someone emails you for example. 
 
-* You or your lab may be most familiar with Matlab. It is probably worth switching to Python. Python offers simpler syntax and enables system wide interfacing. Python is being used by more and more scientists and data scientists and is worth getting comfortable with. [Anaconda](https://www.continuum.io/downloads) provides a scientific distribution of python that enables high performance computing and analysis. Among many other advantages, python is also open source and free. This enables anyone to replicate exactly what you did. 
+* You or your lab may be most familiar with Matlab. It is probably worth switching to Python. Python offers simpler syntax and enables system wide interfacing. Python is being used by more and more scientists and data scientists and is worth getting comfortable with. 
 
+* Thomas Wiecki provides a [great introduction](http://nbviewer.jupyter.org/format/slides/github/twiecki/pydata_ninja/blob/master/PyData%20Ninja.ipynb#/) to becoming a python data ninja.
+
+* [Anaconda](https://www.continuum.io/downloads) provides a scientific distribution of python that enables high performance computing and analysis. Among many other advantages, python is also open source and free. This enables anyone to replicate exactly what you did. 
 
 * Become a pro at [bash shortcuts](https://ss64.com/bash/syntax-keyboard.html) - it will seriously save you a lot of time. 
 
@@ -93,6 +96,7 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 ##  Doing statistics better
 * Rob Kass, CMU statistics faculty, has written [guidelines](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004961) on how to approach data analysis. They are extremely useful. 
 
+* Frequent [datatau](https://www.datatau.com) 
 
 ##  Share your work with your friends as well as your enemies
 * The latter might give you even better criticism.
