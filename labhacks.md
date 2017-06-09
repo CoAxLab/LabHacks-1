@@ -71,9 +71,7 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 
 * Find articles before they are officially published on [arxiv](http://biorxiv.org/)
 
-* [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/)
-
-* [Google-scholar](https://scholar.google.com)
+* You can search the literature with [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/) & [Google-scholar](https://scholar.google.com)
 
 * [PaperPile](https://paperpile.com) is a great citation manager (and its integration with Pubmed)
 
