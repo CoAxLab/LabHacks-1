@@ -66,6 +66,10 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 
 * [Andrew Gelman ](http://andrewgelman.com/) 
 
+##  Writing papers
+* See [these](http://biorxiv.org/content/biorxiv/early/2016/11/28/088278.full.pdf
+) 10 rules for writing papers, written by Konrad Kording and Brett Mensh. 
+
 ##  Doing fMRI
 * Organize your dataset using the [BIDS format](http://bids.neuroimaging.io/) - this will make your data more accessible to both your collaborators and the field at large. 
 
@@ -87,11 +91,6 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 [@Neuro_Skeptic](https://twitter.com/Neuro_Skeptic?lang=en)  
 [@NKriegeskorte](https://twitter.com/NKriegeskorte?lang=en)  
 [@jakevdp](https://twitter.com/jakevdp?lang=en)  
-
-
-##  Writing papers
-* See [these](http://biorxiv.org/content/biorxiv/early/2016/11/28/088278.full.pdf
-) 10 rules for writing papers, written by Konrad Kording and Brett Mensh. 
 
 ##  Meetings with your PI
 * Never show up empty handed to meetings with your PI.
