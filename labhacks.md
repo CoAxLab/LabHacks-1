@@ -52,7 +52,7 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 
 * As soon as possible, understand bootstraping, cross validation and the permutation test. [Here](https://docs.google.com/presentation/d/11TozBxAaON1eFXeL6aK1USLtJyAbUaHhskcPkI0FLbc/edit#slide=id.g138cbbed1a_0_0 ) are some lecture notes describing these topics. 
 
-* Rob Kass, CMU statistics faculty, has written [guidelines](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004961) on how to approach data analysis. They are extremely useful. 
+* [Rob Kass](http://www.stat.cmu.edu/~kass/), CMU statistics faculty, has written [guidelines](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004961) on how to approach data analysis. They are extremely useful. 
 
 * Frequent [datatau](http://www.datatau.com/) for interesting news on data analysis
 
