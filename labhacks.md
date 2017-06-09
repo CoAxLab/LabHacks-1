@@ -6,8 +6,7 @@ Make an "autopilot" script for your analyses, so that figures (and even posters 
 Use [jupyter notebook](http://jupyter.readthedocs.io/en/latest/index.html) for development and for analysis pipelines.
 
 
-A very useful text editor that integrates seamlessly with github. 
-https://atom.io/
+[Atom](https://atom.io/) is very useful text editor that integrates seamlessly with github. 
 Use it for writing experimental code, scanner code, bash scripts and so on. 
 (Hint: Run scripts from atom with package "script")
 
@@ -18,8 +17,8 @@ Start using github. It is excellent for version control (instead of having a fin
 
 Simulate data and make sure that your analysis works the way you think that it is working. 
 
-Become a pro at bash syntax - it will seriously save you a lot of time. 
-https://ss64.com/bash/syntax-keyboard.html
+Become a pro at [bash syntax](https://ss64.com/bash/syntax-keyboard.html) - it will seriously save you a lot of time. 
+
 
 Use shell scripts when you must, but these days python is quite the shapeshifter. 
 
