@@ -13,7 +13,6 @@
 [Statistics blogs](#generating-pub-quality-figures)   
 [Twitter](#twitter-is-your-friend)   
 
- 
 
 
 ## Analysis 
@@ -59,6 +58,10 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 
 
 * As soon as possible, understand bootstraping, cross validation and the permutation test. [Here](https://docs.google.com/presentation/d/11TozBxAaON1eFXeL6aK1USLtJyAbUaHhskcPkI0FLbc/edit#slide=id.g138cbbed1a_0_0 ) are some lecture notes describing these topics. 
+
+* Rob Kass, CMU statistics faculty, has written [guidelines](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004961) on how to approach data analysis. They are extremely useful. 
+
+* Frequent [datatau](http://www.datatau.com/) 
 
 ##  Doing fMRI
 * Organize your dataset using the [BIDS format](http://bids.neuroimaging.io/) - this will make your data more sccessible to both your collaborators and the field at large. 
@@ -108,12 +111,6 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 * Be able to show some evidence of your productivity. 
 
 * The rainy day folder. You will have some weeks where nothing worked and you will have to meet with your PI anyway without the thing you were supposed to have. I found that in those cases it is very useful to have a "rainy day" folder containing interesting analyses/figures your advisor has not yet seen. 
-
-
-##  Doing statistics better
-* Rob Kass, CMU statistics faculty, has written [guidelines](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004961) on how to approach data analysis. They are extremely useful. 
-
-* Frequent [datatau](http://www.datatau.com/) 
 
 ##  Share your work with your friends as well as your enemies
 * The latter might give you even better criticism.
