@@ -63,15 +63,17 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 
 * Frequent [datatau](http://www.datatau.com/) 
 
-##  Doing fMRI
-* Organize your dataset using the [BIDS format](http://bids.neuroimaging.io/) - this will make your data more sccessible to both your collaborators and the field at large. 
-
-##  Statistics blogs
+###  Statistics blogs
 * [While my MCMC gently samples](http://twiecki.github.io/)
 
 * [Pythonic perambulations](http://jakevdp.github.io/)
 
 * [Andrew Gelman ](http://andrewgelman.com/) 
+
+##  Doing fMRI
+* Organize your dataset using the [BIDS format](http://bids.neuroimaging.io/) - this will make your data more sccessible to both your collaborators and the field at large. 
+
+
 
 ##  Twitter is your friend
 * [@tdverstynen (el patron)](https://twitter.com/tdverstynen?lang=en)
