@@ -8,7 +8,7 @@
 [Literature search](#literature-search)  
 [Writing papers](#writing-papers)   
 [Meetings](#meetings-with-your-PI)    
-
+##
 ## Analysis 
 * Start with a clear and universal directory structure for organizing your analysis, data, figures, IRB approval forms, etc. [Here](http://nikola.me/folder_structure.html) is a template you can follow for a transparent directory structure.  
 
@@ -90,8 +90,6 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 * [@NKriegeskorte](https://twitter.com/NKriegeskorte?lang=en)
 
 * [@jakevdp](https://twitter.com/jakevdp?lang=en)
-
-
 
 
 ##  Writing papers
