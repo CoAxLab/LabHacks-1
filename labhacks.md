@@ -6,8 +6,8 @@
 [Doing Statistics](#doing-statistics)      
 [fMRI](#doing-fmri)  
 [Literature search](#conducting-research)  
-[Advice on writing papers](#writing-papers)
-[Advice on meetings](#meetings-with-your-PI)   
+[Advice on writing papers](#writing-papers)   
+[Advice on meetings](#meetings-with-your-PI)    
 
 ### Resources to help guide you..
 [Statistics blogs](#generating-pub-quality-figures)   
