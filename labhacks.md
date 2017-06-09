@@ -1,6 +1,6 @@
 ##### Table of Contents  
 [Headers](#headers)  
-[Emphasis](#Generating-pub-quality-figures)  
+[Emphasis](#generating-pub-quality-figures)  
 ...snip...    
 <a name="headers"/>
 ## Headers
