@@ -2,12 +2,12 @@
 
 [Analysis](#analysis)   
 [Programming](#programming)   
-[Generating Figures](#generating-pub-quality-figures)    
-[Doing Statistics](#doing-statistics)      
+[Generating figures](#generating-pub-quality-figures)    
+[Doing statistics](#doing-statistics)      
 [fMRI](#doing-fmri)  
 [Literature search](#conducting-research)  
-[Advice on writing papers](#writing-papers)   
-[Advice on meetings](#meetings-with-your-PI)    
+[Writing papers](#writing-papers)   
+[Meetings](#meetings-with-your-PI)    
 
 ### Resources to help guide you..
 [Statistics blogs](#generating-pub-quality-figures)   
