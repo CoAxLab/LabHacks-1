@@ -18,7 +18,7 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 
 * Use [jupyter notebooks](http://jupyter.readthedocs.io/en/latest/index.html) for development and for analysis pipelines.
 
-* Make an "autopilot" script for your analyses, so that figures (and even posters if you are feeling ambitious) are updated in real time while the data is collected. You can find some examples [here](https://github.com/pbeukema/rsaRemap/mm_autopilot.py). Write a cron job to execute an autopilot.py script that updates imaging and behavioral analyses and then sends an email with your figures automatically. 
+* Make an "autopilot" script for your analyses, so that figures (and even posters if you are feeling ambitious) are updated in real time while the data is collected. You can find some examples [here](https://github.com/pbeukema/rsaRemap/modmap_autopilot.py). Write a cron job to execute an autopilot.py script that updates imaging and behavioral analyses and then sends an email with your figures automatically. 
 
 * Make a startup file for your jupyter notebooks that preloads modules like numpy and scipy to save you time and also so that your figures are always publication quality, from the get go, without modification. The config file can specify font sizes, legends, color themes etc. Save your figures in svg, or eps. pngs do not scale well and are impossible to modify.
 
