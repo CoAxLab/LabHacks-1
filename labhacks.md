@@ -7,7 +7,7 @@
 [fMRI](#doing-fmri)  
 [Literature search](#literature-search)  
 [Writing papers](#writing-papers)   
-[Meetings](#meetings-with-your-PI)    
+[Meetings](#meetings-with-your-pi)     
 ##
 ## Analysis 
 * Start with a clear and universal directory structure for organizing your analysis, data, figures, IRB approval forms, etc. [Here](http://nikola.me/folder_structure.html) is a template you can follow for a transparent directory structure.  
