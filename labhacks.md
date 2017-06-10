@@ -41,7 +41,7 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 
 * Not sure how to code something? It may have an answer on [stack overflow](https://stackoverflow.com/). 
 
-* Access anything or anywhere on your computer with minimal effort using Keyboard launchers like [Albert](https://github.com/albertlauncher/albert) for linux and [Alfred](https://www.alfredapp.com/). 
+* Access anything or anywhere on your computer with minimal effort using Keyboard launchers like [Albert](https://github.com/albertlauncher/albert) for linux and [Alfred](https://www.alfredapp.com/) for mac. 
 
 ##  Generating Publication Quality Figures
 * Data visualization has been made very easy with [matplotlib](https://matplotlib.org) and a library called [seaborn](http://seaborn.pydata.org/index.html)  
