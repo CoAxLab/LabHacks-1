@@ -35,8 +35,6 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 
 * Simulate data and make sure that your analysis works the way you think that it is working. 
 
-* Use shell scripts if necessary, but these days python is quite the shapeshifter. 
-
 * Use hotkeys for [google](https://support.google.com/chrome/answer/157179?hl=en), [gmail](https://support.google.com/mail/answer/6594?co=GENIE.Platform%3DDesktop&hl=en), [atom](https://github.com/nwinkler/atom-keyboard-shortcuts), & [jupyter notebooks](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/). Consider a mechanical keyboard so your labmates love you, then hotkey some more. 
 
 * Not sure how to code something? It may have an answer on [stack overflow](https://stackoverflow.com/). 
