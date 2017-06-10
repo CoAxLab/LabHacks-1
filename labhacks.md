@@ -40,6 +40,9 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 * Use hotkeys for [google](https://support.google.com/chrome/answer/157179?hl=en), [gmail](https://support.google.com/mail/answer/6594?co=GENIE.Platform%3DDesktop&hl=en), [atom](https://github.com/nwinkler/atom-keyboard-shortcuts), & [jupyter notebooks](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/). Consider a mechanical keyboard so your labmates love you, then hotkey some more. 
 
 * Not sure how to code something? It may have an answer on [stack overflow](https://stackoverflow.com/). 
+
+* Access anything or anywhere on your computer with minimal effort using Keyboard launchers like [Albert](https://github.com/albertlauncher/albert) for linux and [Alfred](https://www.alfredapp.com/). 
+
 ##  Generating Publication Quality Figures
 * Data visualization has been made very easy with [matplotlib](https://matplotlib.org) and a library called [seaborn](http://seaborn.pydata.org/index.html)  
 
@@ -77,6 +80,7 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 
 * If you can not write down the general linear model you are using from scratch and solve it in closed form, [learn how](http://www.brainvoyager.com/bvqx/doc/UsersGuide/StatisticalAnalysis/TheGeneralLinearModel.html).  
 
+* PyCortex provides excellent visualization of your results project on the surface and dynamically generated in your browser. 
 ##  Literature Search
 * Before you start down some major project that you will be committed to for years, understand the current literature in your topic. Understand very clearly why you are going to do what you are going to do. 
 
