@@ -101,4 +101,4 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 * Have a clear objective to the meeting.
 * Be able to show some evidence of your productivity. 
 
-* The rainy day folder. You will have some weeks where nothing worked and you will have to meet with your PI anyway without the thing you were supposed to have. I found that in those cases it is productive to have a "rainy day" folder containing interesting analyses/figures you have not yet shown. 
+* The rainy day folder. You will have some days or weeks where nothing worked. I found that in those cases it is productive to have a "rainy day" folder containing interesting analyses/figures you have not yet shown. 
