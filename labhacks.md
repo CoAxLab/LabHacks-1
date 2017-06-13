@@ -78,7 +78,7 @@ Use it for writing experimental code, scanner code, bash scripts and so on.
 
 * If you can not write down the general linear model you are using from scratch and solve it in closed form, [learn how](http://www.brainvoyager.com/bvqx/doc/UsersGuide/StatisticalAnalysis/TheGeneralLinearModel.html).  
 
-* PyCortex provides excellent visualization of your results project on the surface and dynamically generated in your browser. 
+* [PyCortex](https://github.com/gallantlab/pycortex) provides excellent visualization of your results project on the surface and dynamically generated in your browser. 
 ##  Literature Search
 * Before you start down some major project that you will be committed to for years, understand the current literature in your topic. Understand very clearly why you are going to do what you are going to do. 
 
