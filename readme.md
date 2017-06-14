@@ -89,7 +89,7 @@ rsync -zavr -e ssh --delete --include '*/' --include='*include_these_files.[ext]
 
 * You can search the literature with [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/) & [Google-scholar](https://scholar.google.com)
 
-* [PaperPile](https://paperpile.com) is a great citation manager (and its integrated with Pubmed)
+* You will need a citation manager early on, [PaperPile](https://paperpile.com) is a good one that is well integrated with Pubmed 
 
 ## Twitter is a great resource for identifying new papers, events, tips etc. 
 * [@tdverstynen](https://twitter.com/tdverstynen?lang=en)  cognitive neuroscience, imaging (DSI/fMRI)
