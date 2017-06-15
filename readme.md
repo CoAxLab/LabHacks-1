@@ -92,12 +92,13 @@ rsync -zavr -e ssh --delete --include '*/' --include='*include_these_files.[ext]
 * You will need a citation manager early on, [PaperPile](https://paperpile.com) is a good one that is well integrated with Pubmed 
 
 ## Twitter is a great resource for identifying new papers, events, tips etc. 
-* [@tdverstynen](https://twitter.com/tdverstynen?lang=en)  cognitive neuroscience, imaging (DSI/fMRI)
-* [@KordingLab](https://twitter.com/kordinglab?lang=en)  neural data science, computational modeling, 
-* [@StatModeling](https://twitter.com/StatModeling?lang=en)  statistics, hierarhical bayesian modeling, R
-* [@Neuro_Skeptic](https://twitter.com/Neuro_Skeptic?lang=en)  neuroscience in general
-* [@NKriegeskorte](https://twitter.com/NKriegeskorte?lang=en)  fMRI, RSA, deep learning
-* [@jakevdp](https://twitter.com/jakevdp?lang=en)  python, data analysis, astrophysics
+* [@tdverstynen](https://twitter.com/tdverstynen)  cognitive neuroscience, imaging (DSI/fMRI)
+* [@KordingLab](https://twitter.com/kordinglab)  neural data science, computational modeling, 
+* [@StatModeling](https://twitter.com/StatModeling)  statistics, hierarhical bayesian modeling, R
+* [@Neuro_Skeptic](https://twitter.com/Neuro_Skeptic)  neuroscience in general
+* [@NKriegeskorte](https://twitter.com/NKriegeskorte)  fMRI, RSA, deep learning
+* [@jakevdp](https://twitter.com/jakevdp)  python, data analysis, astrophysics
+* [@fonnesbeck](https://twitter.com/fonnesbeck) statistical analysis in python
 
 ##  Meetings 
 * Never show up empty handed to meetings with your PI.
