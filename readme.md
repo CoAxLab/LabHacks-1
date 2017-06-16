@@ -60,6 +60,8 @@ rsync -zavr -e ssh --delete --include '*/' --include='*include_these_files.[ext]
 
 * [Rob Kass](http://www.stat.cmu.edu/~kass/), CMU statistics faculty, has written [Ten Simple Rules for Effective Statistical Practice](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004961). They are extremely useful. 
 
+* Are you still not using hierarchical Bayes? Everything is a trivial case of hierarchical Bayesian inference. Thomas wiecki will show you the [way](http://twiecki.github.io/blog/2017/02/08/bayesian-hierchical-non-centered/) 
+
 * Frequent [datatau](http://www.datatau.com/) for interesting news on data analysis
 
 * Your stats question may have an answer over [here](https://stats.stackexchange.com/) on cross-validated
