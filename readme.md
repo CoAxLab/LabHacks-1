@@ -8,6 +8,7 @@
 [Literature search](#literature-search)  
 [Writing papers](#writing-papers)   
 [Meetings](#meetings-with-your-pi)     
+[Quick References](#quick-references)
 ##
 ## Analysis 
 * Start with a clear and universal directory structure for organizing your analysis, data, figures, etc. [Here](http://nikola.me/folder_structure.html) is a template you can follow for a transparent directory structure.  
@@ -32,6 +33,8 @@ rsync -zavr -e ssh --delete --include '*/' --include='*include_these_files.[ext]
 * You or your lab may be most familiar with Matlab. It is worth considering a switch to [Python](https://www.python.org/). Python offers simpler syntax, enables system wide interfacing, is open source, free and for these reasons is being used by more and more scientists. Replication is far easier with Python than Matlab. 
 
 * Thomas Wiecki provides a [great introduction](http://nbviewer.jupyter.org/format/slides/github/twiecki/pydata_ninja/blob/master/PyData%20Ninja.ipynb#/) to becoming a python data ninja.
+
+* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) by Jake VanderPlas. An excellent introduction to IPython, NumPy, Pandas, Matplotlib, SciKitLearn + Machine Learning for anyone who has rudimentary Python skills, and is working towards mastering the datas. These notebooks are absolutely free and contain the entire book! 
 
 * [Anaconda](https://www.continuum.io/downloads) provides a scientific distribution of python that enables high performance computing and analysis. 
 
@@ -108,3 +111,6 @@ rsync -zavr -e ssh --delete --include '*/' --include='*include_these_files.[ext]
 * Be able to show some evidence of your productivity. 
 
 * You will have some days or weeks where nothing worked. I found that in those cases it is productive to have a "rainy day" folder containing interesting analyses/figures you have not yet shown. 
+
+##  Quick References  
+* [Matrix Cookbook:](http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/3274/pdf/imm3274.pdf) A useful reference for facts about matrices.
